@@ -22,3 +22,7 @@ Common commands:
 -em (easy mode)
 
 -em is chainable with all of the above. -apem is most popular for scrubs, -ap for tryhards. -em gives extra EXP from creep kills and extra GPM much like Normal Mode does to Ranked in DotA 2. There are many more commands, read the prompts upon connecting to the map.
+
+## A Warning for Online
+
+There are trolls galore if you play online. Someone messing up the map mode is common. If you want to get an MMR in DotA 1, you will need to play on the private servers (When searching through games online, they will list the brand of server they use in the match title if it is ranked. Your MMR keeps among the brand). These servers are community owned and funded, so beware when someone in the match is using server commands or tries to boast of being an admin. It is not uncommon for server owners to be griefers and kick people they dislike (wether it be by request, or just to boost the server owner's own MMR). The nice thing about private servers is that they allow you to check your ping, usually with the command -ping or !ping. Servers auto-ping players upon joining a room, but oftentimes players from Russia, Peru, or Brazil will sneak in and time out during the match. Keep a thick skin and a low head, and you will do well.
